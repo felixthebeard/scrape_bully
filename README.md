@@ -1,7 +1,8 @@
 # scrape_bully
 
-This is a short script to scrape the winning songs from the Antenne Bayern Website
-and automatically notify your phone if the songs are played.
+This is a short script for the "ANTENNE BAYERN – VW Bullis geschenkt!"-Lottery.
+It scrapes the winning songs from the Antenne Bayern Website
+and automatically notify your phone if the songs are played in the correct order.
 
 ## The two main parts:
 - update_winning_songs: scrapes the winning song names from the website
