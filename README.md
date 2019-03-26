@@ -4,7 +4,7 @@ This is a short python script for the "ANTENNE BAYERN – VW Bullis geschenkt!"-
 It scrapes the winning songs from the Antenne Bayern Website
 and automatically notify your phone if the songs are played in the correct order.
 
-## The two main parts:
+How it works:
 - update_winning_songs: scrapes the winning song names from the website
 - scrape_and_check: Listen to the webradio and get the current song names from the steam.
   Reloads the radio stream every 2s to minimize delay.
